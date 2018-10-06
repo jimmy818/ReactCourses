@@ -1,0 +1,18 @@
+.login-signup{
+    margin-top: 35px;
+}
+.focus{
+    border-color: darkred;
+}
+.error-msg{
+    color:darkred;
+    background-color: #f9dddd;
+    padding: 10px;
+}
+.field-error
+{
+    color:darkred;
+}
+.form-group{
+    text-align: left !important;
+}

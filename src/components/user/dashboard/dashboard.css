@@ -1,0 +1,21 @@
+h4{
+    color:#fff;
+}
+.media>.pull-left {
+    margin-right: 10px;
+}
+.Note{
+    color: red;
+}
+.testNote{
+    list-style: circle;
+    margin-left: 10px;
+}
+.testNote>li{
+    color: darkred;
+}
+.timeColor{
+    color: orangered;
+    padding: 10px;
+    text-align: center;
+}

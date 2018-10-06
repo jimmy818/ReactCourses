@@ -1,0 +1,17 @@
+header{
+    height: 0px;
+    position:unset !important;
+}
+section, aside {
+    padding: 0px 0;
+}
+.alert{
+    display: -webkit-box;
+}
+.title-text
+{
+    margin: 0px;
+    padding: 0px;
+    color: #fff;
+    font-weight: 800;
+}
